@@ -1,0 +1,106 @@
+body{
+margin:0;
+color: #40514E;
+text-align: center;
+background-color: #e6ff99;
+font-family: 'Merriweather', serif;
+
+}
+
+h1{
+  color: #4d6600;
+  margin: 0 auto;
+  width: 10px;
+  font-family: 'Sacramento',cursive;
+  font-size: 2.5rem;
+}
+
+h2{
+  padding: 10px;
+  color: #4d6600;
+  font-family: 'Montserrat',sans-serif;
+  font-weight: normal;
+}
+
+h3{
+  color: #000000;
+  font-family: 'Montserrat',sans-serif;
+}
+p{
+  line-height: 2;
+}
+hr{
+  border-style: none ;
+  border-top-style: dotted;
+  width: 5%;
+  border-color: grey;
+border-width: 5px;
+}
+a{
+  color:#4d6600;
+  font-family: 'Montserrat',sans-serif;
+  margin: 10px 10px;
+  text-decoration: none;
+  }
+  a:hover{
+    color: #131a00;
+  }
+.pp{
+  border-radius: 100px;
+  margin: 100px 0;
+  }
+.Pro{
+  text-decoration: underline;
+}
+.bio{
+  width: 30%;
+  margin: auto;
+}
+.image-up{
+  position: relative;
+  left: 300px;
+  border-radius: 20px;
+}
+.image-down{
+  position: relative;
+  right: 200px;
+  border-radius: 100px;
+}
+.main-image{
+  position: relative;
+  border-radius: 100px;
+}
+.skill-row{
+  width: 50%;
+    margin:30px auto 30px auto;
+    text-align: left;
+
+  }
+  .html5img{
+    width: 5%;
+    float: left;
+    margin-right: 30px;
+  }
+.workplace{
+width: 5%;
+float: right;
+margin-left: 30px;
+border-radius: 5px;
+}
+.btn{
+  color: grey;
+  text-decoration: none;
+}
+.btn:hover{
+  color: #000000;
+}
+.bottom-section{
+  background-color: #c6ff1a;
+  padding: 50px 0 20px;
+  border-radius: 10px;
+}
+.copyright{
+  color: #86b300;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
